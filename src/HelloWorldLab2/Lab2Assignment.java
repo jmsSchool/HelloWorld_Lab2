@@ -15,6 +15,15 @@ public class Lab2Assignment {
 		// step 7 Hi Bob
 		System.out.println("Hi Bob");
 		
+		// step 4-3 
+		System.out.println("Hi Charlie");
+		
+		// step 4-10
+		System.out.println("Hi Denise");
+		
+		// step 5-4
+		System.out.println("Hi Ester");
+
 	}
 
 }
