@@ -8,6 +8,10 @@ public class Lab2Assignment {
 		
 		// step 3 Hi Alice 
 		System.out.println("Hi, Alice");
+		
+		// step 7 Hi Bob
+		System.out.println("Hi Bob");
+		
 	}
 
 }
