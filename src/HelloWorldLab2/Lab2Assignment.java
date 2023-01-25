@@ -14,6 +14,9 @@ public class Lab2Assignment {
 		
 		// step 4-3 
 		System.out.println("Hi Charlie");
+		
+		// step 4-10
+		System.out.println("Hi Denise");
 	}
 
 }
